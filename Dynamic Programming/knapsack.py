@@ -8,8 +8,7 @@
 #   a backpack that can hold at most
 #   W pounds.
 # Output: A subset of gold bars
-#   of maximum total weight not exceeding
-#   W.
+#   of maximum total weight not exceeding W
 
 # use recursive algorithm since not all subproblems need to be solved
 # create a dictionary to store calculated results
